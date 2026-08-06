@@ -16,7 +16,7 @@
 ## WEEK 2-Artefact 2
 ### Artifact Title: Strategy Map for ABC Fitness Centre
 ### Diagram of Strategy Map
-
+![WEEK 2 Artefact](WEEK2_Strategy_Map_ABC_Fitness_Centre.png)
 ### REFLECTION
 ### Description
 #### I have developed a strategy map for this week's artefact for a fictional organisation called ABC Fitness Centre. And the purpose of this activity was to understand how organisational strategy can be translated into clear business objectives that support Business Process Management (BPM). I organised the business objectives into four perspectives: Financial, Customer, Internal Business Processes, and Learning & Growth while creating the strategy map. And this exercise demonstrated how different parts of an organisation work together to achieve long-term success and sustainable business performance.
@@ -30,7 +30,7 @@
 ## Week 3-Artefact 3
 ### Artifact Title: Root Cause Analysis (Fishbone Diagram) for Customer Waiting Time
 ### Fishbone Diagram – Self-created using PowerPoint
-
+![WEEK 3 Artefact](
 ### REFLECTION
 ### Description
 #### For this week's artefact, I created a Fishbone Diagram, also known as an Ishikawa Diagram, to perform a Root Cause Analysis (RCA) of the problem of long customer waiting time in a restaurant. This activity was based on the Week 3 topic of Process Analysis and helped me understand that solving business problems requires identifying their underlying causes rather than only addressing visible symptoms. By categorising the possible causes into People, Process, Technology, Equipment, Environment and Management, I was able to analyse the problem in a structured and systematic manner.
