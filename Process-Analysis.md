@@ -2,7 +2,7 @@
 ## WEEK 1-Artefact 1
 ### Artefact Title: Knowledge Areas of the BPM CBOK
 ### Screenshot of Slide 25 from Lecture slides
-
+![Week 1 Artefact](Week1_BPM_CBOK_Knowledge_Areas.png)
 ### REFLECTION
 ### Description
 #### I have selected my first artefact from the lecture slides of Week 1, "The BPM Professional and BPM CBOK." And it introduces the Business Process Management Common Body of Knowledge (BPM CBOK), which provides a systematic framework of knowledge areas required for impactful Business Process Management. During this week's lecture, I learned that the BPM CBOK is a globally acknowledged reference that enables organisations and professionals understand the principles, methods and practices used to strengthen business processes. As well as the lecture also highlights that understanding these knowledge areas is one of the key learning outcomes for the week.
