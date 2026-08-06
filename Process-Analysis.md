@@ -30,7 +30,7 @@
 ## Week 3-Artefact 3
 ### Artifact Title: Root Cause Analysis (Fishbone Diagram) for Customer Waiting Time
 ### Fishbone Diagram – Self-created using PowerPoint
-![WEEK 3 Artefact](
+![WEEK 3 Artefact](WEEK3_Fishbone_Diagram_Long_Customer_Waiting_Time.png)
 ### REFLECTION
 ### Description
 #### For this week's artefact, I created a Fishbone Diagram, also known as an Ishikawa Diagram, to perform a Root Cause Analysis (RCA) of the problem of long customer waiting time in a restaurant. This activity was based on the Week 3 topic of Process Analysis and helped me understand that solving business problems requires identifying their underlying causes rather than only addressing visible symptoms. By categorising the possible causes into People, Process, Technology, Equipment, Environment and Management, I was able to analyse the problem in a structured and systematic manner.
@@ -44,7 +44,7 @@
 ## Week 4-Artefact 4
 ### Artifact Title: BPMN Swimlane Diagram – Restaurant Order Process
 ### BPMN Swimlane Diagram (Created using Microsoft PowerPoint)
-
+![WEEK 4 Artefact](
 ### REFLECTION
 ### Description
 #### For this week's artefact, I created a Business Process Model and Notation (BPMN) Swimlane Diagram using Microsoft PowerPoint to represent a restaurant order process. The diagram depicts how activities are distributed throughout different participants and indicates the flow of work from the customer's order to payment completion. This activity introduced me to BPMN modelling and helped me understand how business processes can be represented using a established graphical notation.
