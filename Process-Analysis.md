@@ -44,7 +44,7 @@
 ## Week 4-Artefact 4
 ### Artifact Title: BPMN Swimlane Diagram – Restaurant Order Process
 ### BPMN Swimlane Diagram (Created using Microsoft PowerPoint)
-![WEEK 4 Artefact](
+![WEEK 4 Artefact](WEEK4_BPMN_Swimlane_Diagram_Restaurant_Order_Process.png)
 ### REFLECTION
 ### Description
 #### For this week's artefact, I created a Business Process Model and Notation (BPMN) Swimlane Diagram using Microsoft PowerPoint to represent a restaurant order process. The diagram depicts how activities are distributed throughout different participants and indicates the flow of work from the customer's order to payment completion. This activity introduced me to BPMN modelling and helped me understand how business processes can be represented using a established graphical notation.
