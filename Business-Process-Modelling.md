@@ -17,4 +17,20 @@ L., Blümel, R., Kampik, T., van der Aa, H. and Stuckenschmidt, H. (2025) ‘Dis
 Process Science, 2, article 4. doi: 10.1007/s44311-025-00009-5.
 
 ## Week 6-Artifact 6
-### Artifact Title: 
+### Artifact Title: Product, Process and Project Performance Metrics
+### Comparison of three performance metric categories
+
+### Reflection
+#### For this week, I have selected a comparison matrix showing product, process and project metrics. Product metrics assess the result delivered to customers
+through defect rate, customer satisfaction and return rate. Process metrics examine how work is performed using cycle time, throughput and error rate. Project
+metrics track delivery through schedule variance, cost variance and milestone completion. This artefact showed me that each category answers a different
+performance question: output value, operational efficiency and planned change delivery. Earned Value Management combines schedule, cost and scope to detect
+deviations and support decisions (Elsaid et al., 2025, p. 1). I learned not to rely on one measure because faster processing may reduce quality or increase cost.
+In future ICT projects, I can select metrics, compare results with targets and recommend improvements.
+
+### References
+#### Elsaid, M., Nassar, K., Alqahtani, F.K. and Abotaleb, I. (2025) ‘Comparative analysis of earned value management techniques in construction projects,
+Scientific Reports, 15, article 23606. doi: 10.1038/s41598-025-05834-z.
+
+## Week 7-Artifact 7
+### Artifact Title:
