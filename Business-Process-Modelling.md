@@ -33,4 +33,18 @@ In future ICT projects, I can select metrics, compare results with targets and r
 Scientific Reports, 15, article 23606. doi: 10.1038/s41598-025-05834-z.
 
 ## Week 7-Artifact 7
-### Artifact Title:
+### Artifact Title: Digital Transformation of the Hotel Room-Readiness Process
+### Before-and-after model of the hotel room-readiness process
+
+### Reflection
+#### For this week, I have selected a before-and-after model of the hotel room-readiness process. The current process relies on phone calls and manual room
+status updates, which can delay task allocation and communication with reception. I would adopt process transformation by introducing a mobile housekeeping
+system that assigns rooms automatically, records live status and alerts reception immediately when inspection is complete. This artefact shows how digital
+transformation changes technology and workflow. Hospitality technology can automate operations and improve organisational performance (Hernández-Laroche and Lee,
+2025, p. 1). Real-time information could reduce waiting, repeated communication and inaccurate room status, supporting faster check-in. However, staff training,
+system reliability and privacy controls are necessary. In future ICT roles, I could map delays, design improvements and compare turnaround time and errors before
+any final implementation.
+
+### References
+#### Hernández-Laroche, A. and Lee, M. (2025) ‘Hospitality and tourism technology and organizational performance: An integrated framework of HTT business value
+and future research agenda’, International Journal of Hospitality Management, 126, article 104092. doi: 10.1016/j.ijhm.2025.104092.
