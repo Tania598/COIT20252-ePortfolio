@@ -2,7 +2,8 @@
 ## Week 5-Artifact 5
 ### Artifact Title: Selecting Appropriate Participants for Process Modelling
 ### Screenshot of the IIBA Australia 2025 Process-Modelling Workshop webpage
-![Week 5 Artefact](
+![Week 5 Artefact](WEEK5_ARTIFACT5.1.png)
+![Week 5 Artefact](WEEK5_ARTIFACT5.2.png)
 ### Reflection
 #### For this week, I have selected Tutorial Question 5.5 and an IIBA Australia webpage about a 2025 process-modelling workshop as my artefact which
 explains that modelling requires understanding how tasks, decisions and responsibilities operate across teams and systems (IIBA Australia, 2025). Suitable
