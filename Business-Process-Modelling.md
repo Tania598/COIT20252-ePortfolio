@@ -2,8 +2,8 @@
 ## Week 5-Artifact 5
 ### Artifact Title: Selecting Appropriate Participants for Process Modelling
 ### Screenshot of the IIBA Australia 2025 Process-Modelling Workshop webpage
-![Week 5 Artefact] (WEEK5_ARTIFACT5.1.png)
-![Week 5 Artefact] (WEEK5_ARTIFACT5.2.png)
+![Week 5 Artefact](WEEK5_ARTIFACT5.1.png)
+![Week 5 Artefact](WEEK5_ARTIFACT5.2.png)
 ### Reflection
 #### For this week, I have selected Tutorial Question 5.5 and an IIBA Australia webpage about a 2025 process-modelling workshop as my artefact which
 explains that modelling requires understanding how tasks, decisions and responsibilities operate across teams and systems (IIBA Australia, 2025). Suitable
@@ -21,7 +21,7 @@ business-analysts
 ## Week 6-Artifact 6
 ### Artifact Title: Categories of Business Process Performance Metrics
 ### Screenshot of Slide 17 from the Week 6 lecture slides
-![Week 6 Artefact](
+![Week 6 Artefact](WEEK6_SCREENSHOT_OF_SLIDE17.png)
 ### Reflection
 #### For this week, I have selected Slide 17, “Categories of Metrics,” from the Week 6 lecture material as my artefact. The slide distinguishes product, process
 and project metrics. Product metrics examine characteristics such as size, complexity, performance and quality; process metrics assess outcomes including
