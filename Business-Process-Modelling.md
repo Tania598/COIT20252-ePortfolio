@@ -1,20 +1,21 @@
 # Business-Process-Modelling
 ## Week 5-Artifact 5
-### Artifact Title: The Four Levels of Process Analysis Using Bizagi Simulation
-### Visual summary of Bizagi's four simulation levels
+### Artifact Title: Selecting Appropriate Participants for Process Modelling
+### Screenshot of the IIBA Australia 2025 Process-Modelling Workshop webpage
 
 ### Reflection
-#### For this week, I have selected a visual summary of Bizagi’s four simulation levels: process validation, time analysis, resource analysis and calendar
-analysis. Process validation checks routing and gateway behaviour, whereas time analysis measures activity duration and cycle time. Resource analysis examines
-capacity, utilisation and cost, while calendar analysis adds shifts and resource availability to produce more realistic results (Bizagi, 2026).
-This artefact helped me understand that a correct BPMN model does not guarantee performance. Simulation can identify bottlenecks and estimate cycle time, waiting
-time and resource utilisation before implementation. I learned that analysts could compare staffing, scheduling and automation scenarios without disrupting
-operations which support evidence-based recommendations in my future ICT career. However, reliable simulation results require accurate data and input assumptions.
+#### For this week, I have selected Tutorial Question 5.5 and an IIBA Australia webpage about a 2025 process-modelling workshop as my artefact which
+explains that modelling requires understanding how tasks, decisions and responsibilities operate across teams and systems (IIBA Australia, 2025). Suitable
+participants should therefore be chosen for their process knowledge, decision authority, practical experience, stakeholder impact and technical expertise.
+This artefact showed me that modelling depends on combining viewpoints. Process owners clarify objectives and approve changes, frontline employees explain
+working practices, customers identify service problems, business analysts structure the model, and technical specialists assess system constraints. I would
+involve these participants through workshops, resolve disagreements using process evidence and collectively validate the model. This would reveal bottlenecks and
+exceptions while improving accuracy, stakeholder acceptance and implementation success.
 
 ### References
-#### Bizagi (2026) ‘Business process simulation’. Available at: https://www.bizagi.com/en/business-process-simulation (Accessed: 2 September 2026). Kirchdorfer,
-L., Blümel, R., Kampik, T., van der Aa, H. and Stuckenschmidt, H. (2025) ‘Discovering multi-agent systems for resource-centric business process simulation’,
-Process Science, 2, article 4. doi: 10.1007/s44311-025-00009-5.
+#### IBA Australia (2025) ‘IIBA Brisbane: Blueprint for Success—Process Modelling Workshop for Business Analysts’, International Institute of Business Analysis
+Australia Chapter, 27 August. Available at: https://australia.iiba.org/Events/iiba-brisbane-%28in-person%29-blueprint-for-success-process-modelling-workshop-for
+business-analysts
 
 ## Week 6-Artifact 6
 ### Artifact Title: Product, Process and Project Performance Metrics
