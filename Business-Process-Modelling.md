@@ -2,8 +2,8 @@
 ## Week 5-Artifact 5
 ### Artifact Title: Selecting Appropriate Participants for Process Modelling
 ### Screenshot of the IIBA Australia 2025 Process-Modelling Workshop webpage
-![Week 5 Artefact](WEEK5_ARTIFACT5.1.png)
-![Week 5 Artefact](WEEK5_ARTIFACT5.2.png)
+![Week 5 Artefact] (WEEK5_ARTIFACT5.1.png)
+![Week 5 Artefact] (WEEK5_ARTIFACT5.2.png)
 ### Reflection
 #### For this week, I have selected Tutorial Question 5.5 and an IIBA Australia webpage about a 2025 process-modelling workshop as my artefact which
 explains that modelling requires understanding how tasks, decisions and responsibilities operate across teams and systems (IIBA Australia, 2025). Suitable
@@ -19,21 +19,19 @@ Australia Chapter, 27 August. Available at: https://australia.iiba.org/Events/ii
 business-analysts
 
 ## Week 6-Artifact 6
-### Artifact Title: Product, Process and Project Performance Metrics
-### Comparison of three performance metric categories
-
+### Artifact Title: Categories of Business Process Performance Metrics
+### Screenshot of Slide 17 from the Week 6 lecture slides
+![Week 6 Artefact](
 ### Reflection
-#### For this week, I have selected a comparison matrix showing product, process and project metrics. Product metrics assess the result delivered to customers
-through defect rate, customer satisfaction and return rate. Process metrics examine how work is performed using cycle time, throughput and error rate. Project
-metrics track delivery through schedule variance, cost variance and milestone completion. This artefact showed me that each category answers a different
-performance question: output value, operational efficiency and planned change delivery. Earned Value Management combines schedule, cost and scope to detect
-deviations and support decisions (Elsaid et al., 2025, p. 1). I learned not to rely on one measure because faster processing may reduce quality or increase cost.
-In future ICT projects, I can select metrics, compare results with targets and recommend improvements.
-
+#### For this week, I have selected Slide 17, “Categories of Metrics,” from the Week 6 lecture material as my artefact. The slide distinguishes product, process
+and project metrics. Product metrics examine characteristics such as size, complexity, performance and quality; process metrics assess outcomes including
+customer satisfaction and defect removal; and project metrics measure cost, time, productivity and resource allocation. These categories demonstrate how
+organisations evaluate different dimensions of performance (CQUniversity, 2026, slide 17). This artefact showed that performance cannot be judged through one
+measure. In hotel room cleaning, product metrics could assess room quality; process metrics could measure cleaning time and guest satisfaction; and project
+metrics could monitor labour cost and staff allocation. Comparing them would reveal whether poor performance results from service quality, inefficient activities
+or insufficient resources. Managers could then prioritise improvements and monitor benefits.
 ### References
-#### Elsaid, M., Nassar, K., Alqahtani, F.K. and Abotaleb, I. (2025) ‘Comparative analysis of earned value management techniques in construction projects,
-Scientific Reports, 15, article 23606. doi: 10.1038/s41598-025-05834-z.
-
+#### CQUniversity (2026) COIT20252 Business Process Management – Week 6: Process Design and Process Performance Measurement, lecture slides, slide 17.
 ## Week 7-Artifact 7
 ### Artifact Title: Digital Transformation of the Hotel Room-Readiness Process
 ### Before-and-after model of the hotel room-readiness process
