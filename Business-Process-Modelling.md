@@ -1,7 +1,7 @@
 # Business-Process-Modelling
 ## Week 5-Artifact 5
 ### Artifact Title: Selecting Appropriate Participants for Process Modelling
-### Screenshot of the IIBA Australia 2025 Process-Modelling Workshop webpage
+### Screenshots of the IIBA Australia 2025 Process-Modelling Workshop webpage
 ![Week 5 Artefact](WEEK5_ARTIFACT5.1.png)
 ![Week 5 Artefact](WEEK5_ARTIFACT5.2.png)
 ### Reflection
@@ -32,19 +32,19 @@ metrics could monitor labour cost and staff allocation. Comparing them would rev
 or insufficient resources. Managers could then prioritise improvements and monitor benefits.
 ### References
 #### CQUniversity (2026) COIT20252 Business Process Management – Week 6: Process Design and Process Performance Measurement, lecture slides, slide 17.
+
 ## Week 7-Artifact 7
-### Artifact Title: Digital Transformation of the Hotel Room-Readiness Process
-### Before-and-after model of the hotel room-readiness process
+### Artifact Title: Robotic Process Automation as a Process Transformation Enabler
+### Screenshots of Selected Article 
 
 ### Reflection
-#### For this week, I have selected a before-and-after model of the hotel room-readiness process. The current process relies on phone calls and manual room
-status updates, which can delay task allocation and communication with reception. I would adopt process transformation by introducing a mobile housekeeping
-system that assigns rooms automatically, records live status and alerts reception immediately when inspection is complete. This artefact shows how digital
-transformation changes technology and workflow. Hospitality technology can automate operations and improve organisational performance (Hernández-Laroche and Lee,
-2025, p. 1). Real-time information could reduce waiting, repeated communication and inaccurate room status, supporting faster check-in. However, staff training,
-system reliability and privacy controls are necessary. In future ICT roles, I could map delays, design improvements and compare turnaround time and errors before
-any final implementation.
-
+#### For this week, I have selected the research article “The Progressive Transformation of Work with Robotic Process Automation Technology”. The article
+examines three organisations implementing RPA and identifies convergent, diffusing and divergent stages of work transformation. It
+demonstrates that RPA develops beyond automating individual tasks by progressively changing workflows, employee roles and organisational practices (Bunduchi et
+al., 2025, p. 430). This artefact showed that RPA requires careful organisational implementation. RPA can increase speed by automating repetitive activities, but
+requires goal alignment, acceptance and management involvement. In housekeeping, it could automate room-status updates and task allocation, allowing staff to
+focus on cleaning quality and guest needs. I would introduce it gradually, monitor errors and processing time, gather feedback and evaluate whether it creates
+sustainable value.
 ### References
-#### Hernández-Laroche, A. and Lee, M. (2025) ‘Hospitality and tourism technology and organizational performance: An integrated framework of HTT business value
-and future research agenda’, International Journal of Hospitality Management, 126, article 104092. doi: 10.1016/j.ijhm.2025.104092.
+#### Bunduchi, R., Chiş, D.M., Mihăilă, A.A. and Crişan, E.L. (2025) ‘The progressive transformation of work with robotic process automation technology’,
+European Journal of Information Systems, pp. 430–450. Available at: https://doi.org/10.1080/0960085X.2025.2576231 (Accessed: 4 September 2026).
