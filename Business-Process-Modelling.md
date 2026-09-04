@@ -36,7 +36,8 @@ or insufficient resources. Managers could then prioritise improvements and monit
 ## Week 7-Artifact 7
 ### Artifact Title: Robotic Process Automation as a Process Transformation Enabler
 ### Screenshots of Selected Article 
-
+![Week 7 Artefact](
+![Week 7 Artefact](
 ### Reflection
 #### For this week, I have selected the research article “The Progressive Transformation of Work with Robotic Process Automation Technology”. The article
 examines three organisations implementing RPA and identifies convergent, diffusing and divergent stages of work transformation. It
