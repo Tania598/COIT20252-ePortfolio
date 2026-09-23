@@ -21,7 +21,7 @@ should contain three genuine academic sources, formatted in CQU Harvard style, a
 ## Week 9-Artifact 9
 ### Artifact Title: Organisational Design Framework – Transformation Model
 ### Screenshot of Slide 13 
-![Week_8_Artifact](WEEK8_SCREENSHOT_OF_SLIDE13.png)
+![Week_9_Artifact](WEEK9_SCREENSHOT_OF_SLIDE13.png)
 ### Reflection
 For this week's artefact, I have selected Slide 13 – Eight Variables of Organisational Design from the Week 9 lecture slides. The Organisational Design Framework 
 helped me learn how various components of an organisation are linked. The model shows that to influence organisational outcomes, strategy, culture, leadership, 
