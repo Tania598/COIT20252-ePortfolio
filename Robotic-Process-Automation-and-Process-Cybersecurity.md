@@ -2,9 +2,9 @@
 ## Week 8-Artifact 8
 ### Artifact Title: Evaluating the Benefits and Limitations of Robotic Process Automation
 ### Screenshot of Tutorial Question 8.7
-
+![Week_8_Artifact](WEEK8_SCREENSHOT_OF_QUESTION8.7.png)
 ### Screenshot of Robotic Process Automation (RPA) – Benefits, Limitations and Applications
-
+![Week_8_Artifact](WEEK8_SCREENSHOT_OF_ANSWER.png)
 ### Reflection
 For this week i have selected tutorial question 8.7. Robotic Process Automation (RPA) uses software robots to perform repetitive and rule-based business 
 activities. With the help of this activity, I learned that RPA can improve productivity, minimise manual errors and help staff to concentrate on activities that 
