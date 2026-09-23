@@ -37,7 +37,7 @@ Professionals.
 ## Week 10-Artifact 10
 ### Artifact Title: Four Principles of Lean Management 
 ### Screenshot of the "Four Principles Lean Management" video 
-![Week_8_Artifact](WEEK8_SCREENSHOT_OF_SLIDE13.png)
+![Week_10_Artifact](WEEK8_SCREENSHOT_OF_VIDEO.png)
 ### Reflection
 For this week's artefact, I selected the “Four Principles of Lean Management” video provided in the Week 10 tutorial material. The Four Principles of Lean 
 Management helped me in understanding how by concentrating on customer value and minimising unnecessary work, organisations can enhance processes. Lean promotes 
